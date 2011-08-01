@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Kaleidoscope</string>
+	<key>ordering</key>
+	<array>
+		<string>4D26EC41-4402-45B1-A25C-4E42510DB846</string>
+		<string>AE74C764-1C00-4E2E-BACA-4FA4E7131B29</string>
+	</array>
+	<key>uuid</key>
+	<string>9697AAB7-4E17-410E-842C-2A0F0CF2AA57</string>
+</dict>
+</plist>
