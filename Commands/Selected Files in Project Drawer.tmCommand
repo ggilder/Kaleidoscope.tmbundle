@@ -17,7 +17,7 @@ eval ksdiff "$TM_SELECTED_FILES"</string>
 	<key>keyEquivalent</key>
 	<string>^@K</string>
 	<key>name</key>
-	<string>Selected Files in Project Drawer copy</string>
+	<string>Selected Files in Project Drawer</string>
 	<key>output</key>
 	<string>discard</string>
 	<key>uuid</key>
